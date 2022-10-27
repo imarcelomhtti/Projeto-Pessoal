@@ -1,2 +1,2 @@
 # Projeto-Pessoal
- Projeto Pessola curso HTML, CSS
+ Projeto Pessoal curso HTML, CSS
