@@ -7,5 +7,16 @@
 }
 
 #fonte {
-  font-size: 10px;
+  font-size: 20px;
+}
+
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#cor {
+  color: seagreen;
+}
+.underline {
+  text-decoration: none;
 }
