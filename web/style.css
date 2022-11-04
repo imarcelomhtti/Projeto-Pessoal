@@ -1,18 +1,37 @@
-#introducao {
-  color: gold;
+body {
+  font-family: arial;
+  margin: 50px;
 }
 
-.codigo .design {
-  color: red;
+h1 {
+  text-align: center;
 }
 
-.azul {
-  color: blue;
+h2 {
+  margin: 0px;
 }
 
-.underline {
-  text-decoration: underline;
+.item {
+  background-color: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
 }
-.grande {
-  font-size: 32px;
+
+span {
+  color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
 }
